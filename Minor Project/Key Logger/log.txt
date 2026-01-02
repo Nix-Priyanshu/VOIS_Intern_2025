@@ -1,0 +1,1 @@
+Key.shift'H'Key.shift'e''l''l''o'Key.space'K'Key.shift'e''y'Key.shift'l''o''g''g''e''r'Key.space'P'Key.shift'r''o''j''e''c''t'Key.backspace
